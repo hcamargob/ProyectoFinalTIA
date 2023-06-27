@@ -1,4 +1,4 @@
-Estos son los archivos bases del proyecto que se basa en : 
+Estos son los archivos bases del proyecto que el reconocimiento lo tienen son los desarrolladores de: 
 EchoNet-Dynamic:<br/>Interpretable AI for beat-to-beat cardiac function assessment
 ------------------------------------------------------------------------------
 
