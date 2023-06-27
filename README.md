@@ -1,3 +1,4 @@
+Estos son los archivos bases del proyecto que se basa en : 
 EchoNet-Dynamic:<br/>Interpretable AI for beat-to-beat cardiac function assessment
 ------------------------------------------------------------------------------
 
